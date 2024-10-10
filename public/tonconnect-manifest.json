@@ -2,7 +2,7 @@
 // https://ton-connect.github.io/demo-dapp-with-wallet/tonconnect-manifest.json
 
 {
-  "url": "https://ton-connect.github.io/demo-dapp-with-wallet/",
+  "url": "https://tonweb-1-basic-features.vercel.app/",
   "name": "Demo Dapp with wallet",
   "iconUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/apple-touch-icon.png",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt",
