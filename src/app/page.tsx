@@ -1,6 +1,7 @@
 "use client";
 
 import { SendTransactionRequest, TonConnectButton, useTonAddress, useTonConnectUI, useTonWallet } from "@tonconnect/ui-react";
+import '@twa-dev/sdk';
 
 
 

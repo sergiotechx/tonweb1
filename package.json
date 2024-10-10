@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tonconnect/ui-react": "^2.0.9",
+    "@twa-dev/sdk": "^7.10.1",
     "encoding": "^0.1.13",
     "next": "14.2.14",
     "react": "^18",
